@@ -1,0 +1,11 @@
+{
+  "name": "multi-tenant-platform",
+  "version": "0.1.0",
+  "description": "Multi-Tenant Platform",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js",
+    "build": "echo build",
+    "start": "node index.js"
+  }
+}
